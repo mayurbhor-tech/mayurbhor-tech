@@ -1,25 +1,7 @@
-## Hi there 👋
 
-<!--
-**mayurbhor-tech/mayurbhor-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayur+Bhor;AI+Backend+Engineer+%7C+Systems+Architect;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Pawar;AI+Backend+Engineer+%7C+Systems+Architect;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
 
 <h3 align="center">Bridging the gap between Data Science and Software Engineering</h3>
 
@@ -86,7 +68,7 @@ My technical stack is curated for **High-Performance Backend Engineering** and *
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitpawar-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpawar-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawar-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -107,4 +89,3 @@ My technical stack is curated for **High-Performance Backend Engineering** and *
   <br/>
   <i>Feel free to explore my repositories and contribute to open source projects!</i>
 </div>
-```
